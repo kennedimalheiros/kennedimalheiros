@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-kennedimalheiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kennedimalheiros/)](https://www.linkedin.com/in/kennedimalheiros/)
+[![Gmail Badge](https://img.shields.io/badge/-kennedimalheiros@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kennedimalheiros@gmail.com)](mailto:kennedimalheiros@gmail.com)
 
 🔭 I’m currently working with python development 
 
